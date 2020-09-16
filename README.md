@@ -1,4 +1,4 @@
-# CNN-BUS-segment
+# CNN for BUS segmentation
 Recently, the automatic segmentation of breast tumors in ultrasound (BUS) has been addressed using convolutional neural networks (CNN). Here, four CNN-based semantic segmentation models for BUS segmentation are provided: 
 1. Fully Convolutional Network (FCN) with AlexNet network.
 2. U-Net network
