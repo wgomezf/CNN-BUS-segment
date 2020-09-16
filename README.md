@@ -12,4 +12,5 @@ Just run the file demo.m to download the CNN models automatically and segment so
 ![picture alt](https://github.com/wgomezf/CNN-BUS-segment/blob/master/cnnseg.png "CAD")
 
 Any use of our CNN models, please cite:
+
 Wilfrido Gomez-Flores and Wagner Coelho de Albuquerque Pereira, "A Comparative Study of Pre-trained Convolutional Neural Networks for Semantic Segmentation of Breast Tumors on Ultrasound", Computers in Biology and Medicine, -in press-, 2020.
