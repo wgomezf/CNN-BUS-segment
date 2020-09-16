@@ -7,5 +7,5 @@ Recently, the automatic segmentation of breast tumors in ultrasound (BUS) has be
 
 All the CNN models were fine-tuned using transfer learning on a dataset with 3061 BUS images acquired from seven ultrasound devices, excepting the U-Net model that was trained from scratch. These CNN models were developed in MATLAB 2020a using the Deep Learning Toolbox (The Mathworks, Boston, Massachusetts, USA). Each CNN model is saved in a MAT-file and can be downloaded from https://www.dropbox.com/s/laws3xbci45n95f/CNNs.zip?dl=1
 
-![picture alt](https://github.com/wgomezf/CAD-birads/blob/master/cad.png "CAD")
+![picture alt](https://github.com/wgomezf/CNN-BUS-segment/blob/master/cnnseg.png "CAD")
 
