@@ -13,4 +13,4 @@ Just run the file demo.m to download the CNN models automatically and segment so
 
 Any use of our CNN models, please cite:
 
-Wilfrido Gomez-Flores and Wagner Coelho de Albuquerque Pereira, "A Comparative Study of Pre-trained Convolutional Neural Networks for Semantic Segmentation of Breast Tumors in Ultrasound", Computers in Biology and Medicine, _in press_, 2020.
+Wilfrido Gomez-Flores and Wagner Coelho de Albuquerque Pereira, "A Comparative Study of Pre-trained Convolutional Neural Networks for Semantic Segmentation of Breast Tumors in Ultrasound", Computers in Biology and Medicine, Volume 126, 104036, 2020.
