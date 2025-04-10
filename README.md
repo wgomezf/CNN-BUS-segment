@@ -5,7 +5,7 @@ Recently, the automatic segmentation of breast tumors in ultrasound (BUS) has be
 3. SegNet using VGG16 and VGG19 networks.
 4. DeepLabV3+ using ResNet18, ResNet50, MobileNet-V2, and Xception networks.
 
-All the CNN models were fine-tuned using transfer learning on a dataset with 3061 BUS images acquired from seven ultrasound devices, excepting the U-Net model that was trained from scratch. These CNN models were developed in MATLAB 2020a using the Deep Learning Toolbox (The Mathworks, Boston, Massachusetts, USA). Each CNN model is saved in a MAT-file and can be downloaded from https://drive.google.com/file/d/1eVClxI1dywZVNLciaJzj3S6Jrcc-lNS8/view?usp=sharing (749 MB).
+All the CNN models were fine-tuned using transfer learning on a dataset with 3061 BUS images acquired from seven ultrasound devices, except the U-Net model, which was trained from scratch. These CNN models were developed in MATLAB 2020a using the Deep Learning Toolbox (The Mathworks, Boston, Massachusetts, USA). Each CNN model is saved in a MAT-file and can be downloaded from [drive.google.com](https://drive.google.com/file/d/1eVClxI1dywZVNLciaJzj3S6Jrcc-lNS8/view?usp=sharing) (749 MB).
 
 Just run the file demo.m to download the CNN models automatically and segment some test BUS images.
 
